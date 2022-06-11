@@ -36,7 +36,7 @@ background: #000000;
 `;
 const Wrapped = style.div`
 width: 90%;
-margin-top: 80px;
+margin-top: 30px;
 height; 100%;
 display: flex;
 justify-content: space-evenly;
@@ -53,8 +53,8 @@ justify-content: center;
 align-items: center;
 img{
   
-  width: 600px;
-  height: 600px;
+  width: 500px;
+  height: 500px;
   object-fit: cover;
 }
 `;

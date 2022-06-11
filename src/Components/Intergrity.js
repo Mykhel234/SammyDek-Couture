@@ -53,8 +53,8 @@ align-items: center;
 flex-wrap: wrap;
 `;
 const Box = style.div`
-width: 400px;
-height: 400px;
+width: 350px;
+height: 350px;
 // background: red;
 // display: flex;
 // align-items: center;
@@ -76,20 +76,20 @@ div{
 // flex-wrap: wrap;
 // `;
 const Box2 = style.div`
-width: 400px;
-height: 400px;
+width: 350px;
+height: 350px;
 margin-bottom: 20px;
 img{
-  width: 400px;
-  height: 400px;
+  width: 350px;
+  height: 350px;
   object-fit: cover;
 `;
 const Box3 = style.div`
-width: 400px;
-height: 400px;
+width: 350px;
+height: 350px;
 img{
-  width: 400px;
-  height: 400px;
+  width: 350px;
+  height: 350px;
   object-fit: cover;
 `;
 const Button = style.button`

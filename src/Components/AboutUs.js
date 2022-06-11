@@ -60,8 +60,8 @@ background: black;
 padding-top: 50px;
 
 img{
-    width: 550px;
-    height: 580px;
+    width: 500px;
+    height: 550px;
     object-fit: Contain;
     
 }
@@ -74,8 +74,8 @@ font-family: poppins;
 `;
 const Text = style.p``;
 const Contents = style.div`
-width: 600px;
-height: 600px;
+width: 500px;
+height: 500px;
 // color: white;
 `;
 const Button = style.button`

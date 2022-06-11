@@ -62,7 +62,7 @@ const Collections = () => {
 export default Collections;
 
 const Wrap = style.div`
-width: 100%;
+width: 90%;
 `;
 const Couples = style.div`
 font-size: 20px;
@@ -109,8 +109,8 @@ font-weight: 500;
 const Pix = style.img`
 margin-top: 30px;
 margin-left: 20px;
-width: 200px;
-height: 300px;
+width: 150px;
+height: 250px;
 background: white;
 border-radius: 10px;
 box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;

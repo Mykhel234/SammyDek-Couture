@@ -73,7 +73,7 @@ font-family: poppins;
 
 `;
 const Navigations = style.div`
-width: 50%;
+width: 45%;
 height: 80px;
 display: flex;
 align-items: center;

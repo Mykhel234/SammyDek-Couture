@@ -44,7 +44,7 @@ background-size: contain;
 display: flex;
 justify-content: center;
 align-items: center;
-padding: 50px 0;
+padding: 30px 0;
 `;
 const Wrapper = style.div`
 width: 90%;
@@ -57,20 +57,20 @@ flex-wrap: wrap;
 `;
 const Image = style.div`
 img{
-    width: 500px;
-    height: 500px;
+    width: 450px;
+    height: 450px;
     object-fit: Contain;
 }
 `;
 const Title = style.div`
 font-size: 30px;
 font-weight: 700;
-margin-top: 80px;
+margin-top: 50px;
 `;
 const Text = style.p``;
 const Contents = style.div`
-width: 600px;
-height: 600px;
+width: 500px;
+height: 500px;
 color: white;
 `;
 const Button = style.button`

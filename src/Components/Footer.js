@@ -48,7 +48,7 @@ export default Footer;
 
 const Container = style.div`
 width: 100%;
-// height: 400px;
+height: 350px;
 display: flex;
 flex-direction: column;
 background: black;
@@ -69,17 +69,17 @@ justify-content space-around;
 flex-wrap: wrap;
 `;
 const First = style.div`
-width: 330px;
+width: 250px;
 color: white;
 // background: blue;
 opacity: 0.8;
-height: 260px;
+height: 300px;
 div{
     margin-top: 70px;
-    font-size: 35px;
+    font-size: 30px;
 };
 p{
-
+  font-size: 14px;
 }
 // display: flex;
 // flex-direction: column;
